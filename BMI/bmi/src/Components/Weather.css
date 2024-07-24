@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    height: 100vh;
+
+}section{
+    color: black;
+    justify-content: center;
+    margin-top:10%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 60px;
+    height: min-content;
+    background-color: rgb(236, 228, 232);
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid darkblue;
+    box-shadow:5px 5px 10px inset;
+    
+}
+img{
+    width: 150px;
+    align-items: center;
+    height: 150px;
+    justify-content: center;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
